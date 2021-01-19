@@ -1,0 +1,1 @@
+ALTER TABLE agenda_petshop.atendimentos add data datetime NOT NULL, add dataCriacao datetime NOT NULL;
